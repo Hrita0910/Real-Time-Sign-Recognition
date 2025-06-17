@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+tensorflow
+scikit-learn
+matplotlib
+pyttsx3
+nltk
+
+ # pip install opencv-python mediapipe numpy tensorflow scikit-learn matplotlib pyttsx3 nltk 
+ 
+
